@@ -1,0 +1,23 @@
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.exe
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.pdb
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.Form1.resources
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.Properties.Resources.resources
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\4.2 Data Hiding and Initializing Object\Practices\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
+G:\Dropbox\Dropbox\.Net OOP @ BASIS\Course Content - CSharp\4. OOP\4.2 Data Hiding and Initializing Object\Practices\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
+E:\Dropbox\Dropbox\OOP.Net\Content\4. OOP\4.2 Data Hiding and Initializing Object\Practices\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
+E:\Dropbox\Dropbox\OOP.Net\Content\4. OOP\4.2 Data Hiding and Initializing Object\Practices\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
+G:\Dropbox\Dropbox\OOP.Net\Content\4. OOP\4.2 Data Hiding and Initializing Object\Practices\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
+G:\Dropbox\Dropbox\OOP.Net\Content\4. OOP\4.2 Data Hiding and Initializing Object\Practices\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.RefrizeratorUI.resources
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.Properties.Resources.resources
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.csproj.GenerateResource.Cache

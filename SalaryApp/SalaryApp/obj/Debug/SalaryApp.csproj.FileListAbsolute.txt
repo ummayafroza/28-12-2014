@@ -1,0 +1,9 @@
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\bin\Debug\SalaryApp.exe.config
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\obj\Debug\SalaryApp.csprojResolveAssemblyReference.cache
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\obj\Debug\SalaryApp.Form1.resources
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\obj\Debug\SalaryApp.Properties.Resources.resources
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\obj\Debug\SalaryApp.csproj.GenerateResource.Cache
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\bin\Debug\SalaryApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\bin\Debug\SalaryApp.pdb
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\obj\Debug\SalaryApp.exe
+E:\FTFL - batch 02 - ASP.Net MVC\28-Dec-2014\SalaryApp\SalaryApp\obj\Debug\SalaryApp.pdb
